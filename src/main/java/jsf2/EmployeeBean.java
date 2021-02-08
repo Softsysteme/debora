@@ -1,4 +1,6 @@
-package com.javacodegeeks.jsf.beans;
+package  jsf2;
+
+
 
 import java.util.Date;
 import javax.faces.application.FacesMessage;
